@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "encoded-victory-248003",
+  "private_key_id": "80bcf117d5b7e4f2b904c73a924fa61784593f3e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDUuAfovsPvq4xn\n0rxmrZg8xaflF2ZvyiabE65oJ77BrzNSctCCb1vFZ2qxERZGc8kqfDcLMxR7QVgh\n6kDE8s2VwIrZUcxp9C/tj2N90zg8i1uRQZEcRs9WiuakAAX3pqYn/mn1vQtzArUf\nglV+IZtZEl9ZrlN72kECoXcts/UeIWaWkxGJbYwwqb4Gi1dH4cg+GoW7+kK1CoWL\n1GWgxDwDbR6I/FAu3PJq3NDdF7tBNvPsUL7aATZ+FwBj5WvSxjkWWVz9o1BRJ+Wk\n4Ked8t2fo7rY8TUNceOj33vNxkITu1kA9XTLODMp11HROHCg+jHh6nOPEs6mq26l\nJkRTc9UrAgMBAAECggEALPAX06aBVB+EkOZnILXppGUJPA9+d31YPIii3qQO23H8\nwJ06yWNnGsPnOTLn5shNJimJo1cOK5+5U6jeN/0nS0yayKBMM9H/UgtptEor5jZ2\niLA2TKf0406CvQC4QgI1tds8XUqroYdf5iEtmHDXFbEY7aQzRMXt1/VubPxIey2m\ncjT1t6pI3lUbjZX01VJ4HCw8RRiUuPFmaf0qMYLMG6Ee2j7my8teFiWSuoI8OoMK\na97AAYAw6DADM8Lw4UwXIHCyMF/AmkDDuacQCN38JEXY1BsR7Gt7RTQenSj+cgEo\nuMFGDsKTN3BsXyaBtyDKgV1Ru+Tno0y9h4C8HDV/IQKBgQD27piETxXMGj9YfKgK\nD0dULRDFXpj1TEWEb8hRodnUSDhbnRb2hCQn1X+P43xd3TvEEX3gpK7cX2gr2jWh\nooARjxcboD+AAcN8ZF+4zULWUjVzIva8KIjPhp/1I1Uanfocs2umti+v6/JY9IgB\nv1CRwOnhLd4Zo0YD50kUalC++wKBgQDch8xAxuN0Q/CChM/lvlbJ9hKZo8HmVXtU\n9NryFx6qjDx2h94CP+/D/ck4w4Xm+4YWmTdr1yC3V3M1ukudguPLxN9IbUY2AeRd\nhXVYXB+i9/fdk6AEOp/mMJm1DZhOQMAFLzuJ2hL1zuctDMj48BNlxS6XuDEJQHtG\nm1sh85KrkQKBgAtVaCqqdpWnnsCw+AV+LgfvCZYFgX/AwHATsV4Nz7GunueVjjhC\nWGZ7ph80kcC9JsEZDG4DIQN8XYuluFBy5O3pY2YhNMjrS82pzbrtsOOlYk6mjCyW\nr7DWvQDDXmSaW6B1m7tLIWUxry3mC1gJL+mAsTtkn40NsWj8dJ47QvmBAoGAR+f7\ngI+ZMJrKfDRD+XxTniyfKfuMSMdMnInuLgu90wxA1sE8cW1Zh4VjrB+MtKEEuq+g\ns4gEweNAzJ7+8s/v6Mw7pckDoK6DQL84YORA6ImEB3qQLXDUHGFybOeO5s0UD1y0\nRCGYFxAsrrLBgPH+0Ss3Iv9K9eJRj9cuIubhxxECgYApQf8fRiVIesecfeH0qfrj\nRAsc/6tso8++8JQqSoDu2/HNfohyXdbGnbXji+MrQcZUhcZTwYaqivCEwpL3epg1\nN14drIRLsw2PC0wEa5vjrm4RcRP0/IHDvFjaIdrAD19gk50Yyw7Nv6YEqQoXynrf\nbrEr9aKVqGf+65QeESdF0w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "hangout-chatbot@encoded-victory-248003.iam.gserviceaccount.com",
+  "client_id": "102835274961019118178",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hangout-chatbot%40encoded-victory-248003.iam.gserviceaccount.com"
+}
