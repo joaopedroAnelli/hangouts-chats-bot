@@ -15,8 +15,6 @@ async function main () {
         scopes: [scopes]
     });
 
-    // obtain the current project Id
-    const project = await google.auth.getProjectId();
 
     const chat = google.chat({
         version: 'v1',
